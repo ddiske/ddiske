@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
 ![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,html,css,git,github,mysql)
 
 ---
@@ -33,7 +30,7 @@ Here are some ideas to get you started:
 ---
 
 ### ​ Highlighted Projects
-- **[coffice](https://github.com/ddiske/coffice)** — 제주 카페 정보 공유 웹앱 (React + Firebase)
+- **[coffice](https://github.com/ddiske/coffice)** — 커피 프랜차이즈 그룹웨어 (Java)
 - **[projectJeju](https://github.com/ddiske/projectJeju)** — 제주 여행 플랫폼 백엔드 (Java)
 
 ---
