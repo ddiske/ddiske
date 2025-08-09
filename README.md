@@ -1,7 +1,5 @@
 ## Hi there 👋
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddiske&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddiske&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddiske&theme=radical)
 
 ---
 
@@ -15,6 +13,8 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddiske&layout=compact&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddiske&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddiske&theme=radical)
 
 ---
 
