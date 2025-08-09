@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ---
 
 ###  Contact Me  
-[✉ Email](mailto:your.email@example.com) · [LinkedIn](https://linkedin.com/in/yourprofile)
+[✉ Email](mailto:ddiske28@gmail.com) · [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.notion.so/22f2b771ae8080a6ac5cc48d09fbce4e))
 
 ---
 
