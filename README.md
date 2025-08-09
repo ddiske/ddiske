@@ -18,11 +18,24 @@ Here are some ideas to get you started:
 ---
 
 ### 🛠️ Tech Stack
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+| Language | Framework / Tool |
+|----------|------------------|
+| Java, JavaScript, TypeScript | React, Spring Boot, Docker, Git |
+
+---
+
+### ​ Highlighted Projects
+- **[coffice](https://github.com/ddiske/coffice)** — 제주 카페 정보 공유 웹앱 (React + Firebase)
+- **[projectJeju](https://github.com/ddiske/projectJeju)** — 제주 여행 플랫폼 백엔드 (Java)
+
+---
+
+###  Contact Me  
+[✉ Email](mailto:your.email@example.com) · [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
 ### 📊 GitHub Stats
-![Cris's GitHub stats](https://github-readme-stats.vercel.app/api?username=cris2137&show_icons=true&theme=default)
+![Cris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddiske&show_icons=true&theme=default)
 
 ---
