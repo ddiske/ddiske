@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br>
 ![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,html,css,git,github,mysql)
 
 ---
